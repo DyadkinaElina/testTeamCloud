@@ -1,1 +1,2 @@
-print("Hello, World!")
+with open('results.txt', 'w') as file:
+    file.write('Результаты запуска кода')
