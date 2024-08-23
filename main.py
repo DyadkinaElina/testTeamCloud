@@ -1,2 +1,2 @@
 with open('results.txt', 'w') as file:
-    file.write('Результаты запуска кода')
+    file.write('It is result')
